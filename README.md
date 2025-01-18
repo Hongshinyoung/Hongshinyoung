@@ -1,9 +1,8 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongshinyoung&show_icons=true&theme=dracula)
 <!--
 **Hongshinyoung/Hongshinyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongshinyoung&show_icons=true&theme=dracula)
 
 Here are some ideas to get you started:
 
